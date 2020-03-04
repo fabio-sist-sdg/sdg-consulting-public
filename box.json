@@ -18,7 +18,7 @@
 		},
 		{
 			"kind": "styling",
-			"tag": "com-demo-gauge-sps",
+			"tag": "com-demo-box-sps",
 			"url": "https://sdgconsulting.github.io/sdg-consulting-public/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
