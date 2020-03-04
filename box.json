@@ -4,7 +4,7 @@
 	"name": "Multiple Gauge Custom Widget",
 	"description": "Multiple Gauge Custom Widget for Analytics Applications",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://github.com/sdgconsulting/sdg-consulting-public/blob/master/box/icon.png",
+	"icon": "https://sdgconsulting.github.io/sdg-consulting-public/box/icon.png",
 	"vendor": "SDG Consulting",
 	"eula": "EULA",
 	"license": "1.0",
@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://github.com/sdgconsulting/sdg-consulting-public/blob/master/box/box.js",
+			"url": "https://sdgconsulting.github.io/sdg-consulting-public/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://github.com/sdgconsulting/sdg-consulting-public/blob/master/box/box_sps.js",
+			"url": "https://sdgconsulting.github.io/sdg-consulting-public/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://github.com/sdgconsulting/sdg-consulting-public/blob/master/box/box_bps.js",
+			"url": "https://sdgconsulting.github.io/sdg-consulting-public/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
